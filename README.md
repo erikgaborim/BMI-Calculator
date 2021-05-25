@@ -1,2 +1,2 @@
 # BMI-Calculator
-Body Mass Index Calculator developed in the Academind's React and Ionic course
+Body Mass Index Calculator developed in the Academind's course of React and Ionic
